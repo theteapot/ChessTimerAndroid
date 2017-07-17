@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChessTimer</string>
+    <string name="title_activity_classic_chess_timer">classic_chess_timer</string>
+    <string-array name="timer_types_array">
+        <item>Classic chess</item>
+        <item>Pass and Play</item>
+    </string-array>
+
+</resources>
